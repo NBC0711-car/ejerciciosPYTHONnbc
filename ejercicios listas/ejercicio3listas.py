@@ -5,4 +5,4 @@ for asignatura in asignaturas:
     notas.append(nota)
 
 for i in range(len(asignaturas)):
-    print("En " + asignaturas[i] + " has sacado " + notas[i])
+    print("En " + asignaturas[i] + " has sacado " + notas[i])                               
